@@ -1,0 +1,52 @@
+APEX INSTITUTE OF TECHNOLOGY
+OFFICE OF ACADEMIC AFFAIRS
+DOCUMENT CODE: ACAD-REG-2024
+TITLE: ACADEMIC REGULATIONS, CURRICULAR STRUCTURE, AND GRADING SYSTEM
+EFFECTIVE DATE: ACADEMIC YEAR 2024-2025
+
+1. OVERVIEW AND DEGREE REQUIREMENTS
+1.1 Credit Framework
+All four-year Bachelor of Technology (B.Tech) degree programs require satisfactory completion of a minimum of 160 academic credits. A student is permitted to register for a minimum of 18 credits and a maximum of 26 credits in any regular semester. Normal recommended semester course load is between 20 and 24 credits.
+
+1.2 Duration of Study
+The standard duration for completing the B.Tech degree is eight consecutive semesters (4 academic years). The maximum allowable duration to fulfill all graduation criteria is fourteen semesters (7 academic years) from the date of initial matriculation. Failure to graduate within seven years results in automatic termination of student candidature.
+
+2. ATTENDANCE REGULATIONS AND CONDONATION
+2.1 Minimum Attendance Threshold
+Attendance in all registered theory classes, practical laboratory sessions, and tutorial hours is recorded on the Institute ERP. Every student must maintain a minimum attendance of 75% in each registered course to be eligible to sit for the end-semester final examinations.
+
+2.2 Medical Condonation (Grace Allowance)
+A student having an attendance between 65.0% and 74.9% may apply for attendance condonation strictly on medical grounds or bereavement in the immediate family. The application accompanied by a certified medical fitness certificate from a registered medical practitioner (minimum MBBS) and hospital admission proof must be submitted to the Dean of Academic Affairs within seven (7) working days of returning to campus. A non-refundable condonation fee of INR 1,500 per subject applies upon approval.
+
+2.3 Attendance Detention (FA Grade)
+Students whose attendance in any registered course falls below 65.0% are disqualified from taking the end-semester examination for that course. The student is awarded the grade 'FA' (Failure due to Attendance / Detention) on their semester grade report. A student awarded an FA grade is ineligible for supplementary exams and must re-register for the entire course during the subsequent Summer Term or when offered as a regular course in future terms, paying full per-credit tuition fees.
+
+3. GRADING SCHEME AND ACADEMIC PERFORMANCE METRICS
+3.1 Ten-Point Grading Scale
+Student academic evaluation is based on absolute and relative grading on a 10-point scale:
+- Grade 'O' (Outstanding): Marks >= 90%, Grade Points: 10
+- Grade 'A+' (Excellent): Marks 80% to 89%, Grade Points: 9
+- Grade 'A' (Very Good): Marks 70% to 79%, Grade Points: 8
+- Grade 'B+' (Good): Marks 60% to 69%, Grade Points: 7
+- Grade 'B' (Above Average): Marks 55% to 59%, Grade Points: 6
+- Grade 'C' (Average / Pass): Marks 45% to 54%, Grade Points: 5
+- Grade 'P' (Marginal Pass): Marks 40% to 44%, Grade Points: 4
+- Grade 'F' (Fail): Marks < 40%, Grade Points: 0
+- Grade 'FA' (Detained due to Attendance): Grade Points: 0
+- Grade 'I' (Incomplete due to approved medical emergency during exam): Grade Points: Deferred
+
+3.2 Minimum Passing Threshold
+To earn course credits, a student must score at least 35% in the end-semester final examination and a cumulative aggregate (continuous internal assessment + end-semester) of at least 40% (Grade 'P').
+
+3.3 SGPA and CGPA Calculation
+The Semester Grade Point Average (SGPA) is computed as the sum of products of course credits and earned grade points divided by total semester credits registered. Cumulative Grade Point Average (CGPA) is computed across all credits successfully completed from the first semester onwards.
+
+3.4 Minimum CGPA for Progression and Degree Award
+To qualify for the award of the B.Tech degree, a student must secure an overall CGPA of not less than 5.00 with zero active backlogs. Students who maintain a CGPA >= 8.50 without any backlog throughout all eight semesters will graduate with "First Class with Distinction".
+
+4. HONORS, AWARDS AND ELECTIVE POLICIES
+4.1 Dean's Honor Roll
+Students who achieve a Semester GPA (SGPA) of 9.25 or higher with no backlog or makeup exam in that semester are placed on the Dean's Honor Roll. Each honoree receives a formal Certificate of Academic Distinction and a book grant of INR 5,000 disbursed via student ERP credit.
+
+4.2 Course Add, Drop, and Withdrawal
+A student is permitted to change or drop an open elective or professional elective course within fourteen (14) calendar days of the formal start date of the academic semester. Courses dropped within this period will not appear on the official academic transcript. Course withdrawal between day 15 and day 30 records a grade of 'W' (Withdrawn) on the transcript with no credit or GPA impact.

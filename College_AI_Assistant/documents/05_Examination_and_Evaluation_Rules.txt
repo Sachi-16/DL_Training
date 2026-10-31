@@ -1,0 +1,46 @@
+APEX INSTITUTE OF TECHNOLOGY
+CONTROLLER OF EXAMINATIONS (COE)
+DOCUMENT CODE: EXAM-CODE-2024
+TITLE: RULES FOR END-SEMESTER EXAMINATIONS, REVALUATION, SUPPLEMENTARY PAPERS AND MALPRACTICE CODES
+ACADEMIC YEAR: 2024-2025
+
+1. EXAMINATION ADMIT CARDS AND ENTRY ADMISSIBILITY
+1.1 Digital Hall Ticket Issuance
+Official examination Admit Cards (Hall Tickets) are generated through the Institute ERP five (5) calendar days prior to the start of scheduled end-semester examinations. To download the Hall Ticket, a student must meet the following mandatory prerequisites:
+- Certified minimum academic attendance of 75% in each registered course (as specified in ACAD-REG-2024 Section 2.1).
+- No outstanding semester tuition, hostel, or library fine dues.
+- Clear clearance status from the Office of Student Welfare (no pending disciplinary suspension).
+Students presenting without a signed physical printout of the hall ticket and official student photo identity card will not be permitted entry into the examination hall.
+
+1.2 Examination Hall Timing Rules
+Candidates must occupy their assigned examination desk ten (10) minutes prior to the commencement of the exam. No student will be allowed to enter the exam room after thirty (30) minutes from the official start bell. No student may leave the hall during the first 60 minutes or the last 15 minutes of the test session.
+
+2. SUPPLEMENTARY AND BACKLOG EXAMINATIONS
+2.1 Supplementary Exam Scheduling and Limit
+Supplementary examinations for cleared backlogs are scheduled once annually during the summer vacation period (month of July). A student may register for a maximum of four (4) backlog course subjects in a single supplementary examination session.
+
+2.2 Backlog Registration Fee
+A non-refundable supplementary examination fee of INR 750 per registered paper must be paid online via the student ERP portal prior to June 15.
+
+3. ANSWER SCRIPT VERIFICATION AND REVALUATION PROTOCOL
+3.1 Revaluation Windows and Fees
+A student who believes their written exam answer script was evaluated inaccurately may apply for photocopy viewing or complete revaluation within ten (10) business days from the official date of semester grade publication:
+- Tier A: Photocopy of Answer Booklet: INR 500 per subject paper.
+- Tier B: Complete Third-Examiner Revaluation: INR 1,200 per subject paper.
+
+3.2 Revaluation Outcome and Fee Refund Policy
+During revaluation, the entire script is re-examined independently by an external faculty evaluator.
+- If the revised mark differs by +/- 5% or less, the original awarded mark remains unaltered.
+- If the revised mark changes by greater than 5%, the new revaluation mark is officially recorded on the revised grade sheet.
+- If the revised revaluation mark results in an upward score increase exceeding 15% of the maximum marks, the student is awarded the higher grade and 50% of the revaluation fee (INR 600) is refunded to the student's college bank account.
+
+4. UNFAIR MEANS AND ACADEMIC MALPRACTICE CODE (UFM)
+4.1 Malpractice Classification and Sanctions
+Any breach of academic integrity during university examinations is adjudicated by the Examination Disciplinary Committee according to the following tier scale:
+- Level 1 Malpractice (Minor): Possession of unauthorized paper slips, study sheets, textbook pages, or writing on hands/desks without evidence of direct copying. Penalty: Cancellation of the specific examination paper with zero marks awarded (Grade 'F').
+- Level 2 Malpractice (Major): Possession or active usage of unauthorized electronic devices (smartphones, programmable calculators, smartwatch communicators, Bluetooth earpieces) or observed copying from another candidate. Penalty: Cancellation of all registered examination papers across the entire semester session and debarment from the college for one (1) subsequent regular academic semester.
+- Level 3 Malpractice (Severe / Fraud): Impersonation of another candidate, tearing answer sheets, or physical intimidation of invigilators. Penalty: Permanent expulsion from the Institute and notification to civil law enforcement authorities.
+
+5. GRACE MARKS POLICY
+5.1 Moderation and Grace Allocation
+A maximum of three (3) grace marks can be awarded by the Examination Board to a candidate in at most one (1) failed theory paper per academic year, provided that granting these grace marks allows the student to satisfy the passing threshold (40% aggregate) and achieve zero backlogs for that academic year. Grace marks cannot be awarded in laboratory, viva-voce, or project courses.
